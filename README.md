@@ -42,6 +42,12 @@ Jane,jane@email.com
 - Dark Mode Toggle
 - Responsive UI using Bootstrap
 - Dynamic Data Handling
+
+## 🎥 Demo Video
+
+Click below to watch the demo:
+
+[Watch Demo](https://youtu.be/eeYiomVG48Y)
  
 ## 📸 Screenshots
 
