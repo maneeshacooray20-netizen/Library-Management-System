@@ -19,7 +19,29 @@ A web-based system using Java Servlets and JSP to manage users and books with fi
 - src/main/java → Servlets, Services, Models  
 - src/main/webapp → JSP files (UI)  
 - data → Text files (users, books)  
-- pom.xml → Project configuration  
+- pom.xml → Project configuration
+
+## ⚙️ How to Run
+
+1. Clone the repository
+2. Open in IntelliJ IDEA
+3. Configure Apache Tomcat server
+4. Run the project
+5. Open in browser:
+   http://localhost:8080/demo
+
+## 📄 Data Storage
+
+Data is stored in text files using comma-separated values:
+
+Example:
+John,john@email.com
+Jane,jane@email.com
+
+## 🌙 Features Highlight
+- Dark Mode Toggle
+- Responsive UI using Bootstrap
+- Dynamic Data Handling
  
 ## 📸 Screenshots
 
