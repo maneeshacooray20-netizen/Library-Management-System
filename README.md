@@ -1,7 +1,38 @@
+# Library Management System
+
+## 📌 Description
+A web-based system using Java Servlets and JSP to manage users and books with file handling.
+
+## 🚀 Features
+- User Management (Add, View, Update, Delete)
+- Book Management (CRUD)
+- Search functionality
+- Dark mode UI
+
+## 🛠 Technologies
+- Java (Servlets, JSP)
+- Apache Tomcat
+- HTML, CSS, Bootstrap
+- File Handling (TXT)
+
+## 📂 Project Structure
+demo/
+ ├── src/
+ ├── webapp/
+ ├── data/
+ └── pom.xml
+ 
+## 📸 Screenshots
+
+### Home Page
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 19 21 PM" src="https://github.com/user-attachments/assets/38e4dcf6-0f95-476d-a95e-012c2dc82feb" />
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 19 49 PM" src="https://github.com/user-attachments/assets/e701effc-f008-46a8-9c97-db618395e8d1" />
+
+###Add Users
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 20 32 PM" src="https://github.com/user-attachments/assets/2690bb43-0da2-4c2f-a640-17897adcee25" />
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 20 45 PM" src="https://github.com/user-attachments/assets/564eac0d-0700-4e6c-a1c8-9e74e50199aa" />
+
+###View Users
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 21 33 PM" src="https://github.com/user-attachments/assets/365f6031-855d-45be-9b0b-68720b12b6c5" />
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 21 58 PM" src="https://github.com/user-attachments/assets/a7c8bcd6-b270-499e-b53d-8e90f006236d" />
 <img width="1440" height="810" alt="Screenshot 2026-04-18 at 12 22 14 PM" src="https://github.com/user-attachments/assets/86b6645f-cfa7-43b6-80f2-b1b67351e5c9" />
