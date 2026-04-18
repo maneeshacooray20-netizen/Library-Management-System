@@ -15,12 +15,11 @@ A web-based system using Java Servlets and JSP to manage users and books with fi
 - HTML, CSS, Bootstrap
 - File Handling (TXT)
 
-## 📂 Project Structure
- - demo/
-  - src/
-  - webapp/
-  - data/
-  - om.xml
+## 📂 Structure
+- src/main/java → Servlets, Services, Models  
+- src/main/webapp → JSP files (UI)  
+- data → Text files (users, books)  
+- pom.xml → Project configuration  
  
 ## 📸 Screenshots
 
